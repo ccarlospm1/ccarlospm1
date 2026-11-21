@@ -1,4 +1,10 @@
 ## Hi there 👋
+### CPINEDA
+
+**Desarrollos**
+*Desde finales del 2026*
+Se elimino lo de años anteriores de la anterior cuenta ~~2026 y años atras~~
+`01-12-2026`
 
 <!--
 **ccarlospm1/ccarlospm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
